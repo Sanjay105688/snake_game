@@ -27,8 +27,6 @@ The main objective is to collect as much food as possible without hitting the wa
 ## 🛠️ Technologies Used
 
 - HTML5
-- CSS3
-- JavaScript
 - GitHub Pages
 
 ## 🎮 How to Play
