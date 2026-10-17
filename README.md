@@ -52,7 +52,6 @@ The main objective is to collect as much food as possible without hitting the wa
 
 ```text
 snake_game/
-├── index.html
 ├── snake.html
 └── README.md
 ```
